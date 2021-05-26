@@ -22,15 +22,16 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 <br>
 <br>
 
+<a href='https://github.com/yashsharma8415'>
+  <p align='center'>
+    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=yashsharma8415&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true" style="max-width:100%;">
+  </p>
+</a>
+
+
 <a href='https://www.linkedin.com/in/yashsharma8415/'>
   <p align='center'>
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" style="max-width:100%;">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yashsharma8415&style=flat-square&color=brightgreen" style="max-width:100%;">
-  </p>
-</a>
-
-<a href='https://github.com/yashsharma8415'>
-  <p align='center'>
-    <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=yashsharma8415&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true" style="max-width:100%;">
   </p>
 </a>
