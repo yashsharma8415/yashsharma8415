@@ -31,7 +31,6 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 
 <a href='https://www.linkedin.com/in/yashsharma8415/'>
   <p align='center'>
-    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" style="max-width:100%;">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yashsharma8415&style=flat-square&color=brightgreen" style="max-width:100%;">
   </p>
 </a>
@@ -57,3 +56,26 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
 </p>
+
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+<a href="https://twitter.com/yashsharma8415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashsharma8415/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yashsharma8415/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yoshogulla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://medium.com/@yashsharma8415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mr__yasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Yash Sharma" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Messier22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Yash Sharma" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Competitive Programming</h3>
+<p align="center">
+<a href="https://codeforces.com/profile/Protostar" target="blank"><img align="center" src="https://cp-logo.vercel.app/codeforces/Protostar?logo=true" alt="Yash Sharma" /></a>
+<a href="https://www.codechef.com/users/yashsharma115" target="blank"><img align="center" src="https://cp-logo.vercel.app/codechef/yashsharma115?logo=true" alt="Yash Sharma" /></a>
+<a href="https://leetcode.com/Messier22/" target="blank"><img align="center" src="https://cp-logo.vercel.app/leetcode/Messier22?logo=true" alt="Yash Sharma" /></a>
+<a href="https://atcoder.jp/users/Protostar" target="blank"><img align="center" src="https://cp-logo.vercel.app/atcoder/Protostar?logo=true" alt="Yash Sharma" /></a>
+<a href="https://www.topcoder.com/members/Messier22" target="blank"><img align="center" src="https://cp-logo.vercel.app/topcoder/Messier22?logo=true" alt="Yash Sharma" /></a>
+</p>
+
+
+
