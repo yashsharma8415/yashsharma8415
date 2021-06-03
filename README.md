@@ -14,8 +14,9 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 - 👨🏻‍💻 I’m currently working on web and app development.
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: yashsharma8415@gmail.com.
-- 📝 [Resume](http://bit.ly/Yash_Sharma_Resume).
+- 📫 How to reach me: yashsharma8415@gmail.com
+- 📝 [Resume](http://bit.ly/Yash_Sharma_Resume)
+- 👨🏻‍💻 [Website](https://bit.ly/yash-sharma-portfolio)
 
 <br>
 <br>
@@ -29,7 +30,7 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 </a>
 
 
-<a href='https://www.linkedin.com/in/yashsharma8415/'>
+<a href='https://github.com/yashsharma8415'>
   <p align='center'>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=yashsharma8415&style=flat-square&color=brightgreen" style="max-width:100%;">
   </p>
@@ -57,7 +58,7 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 
 </p>
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/yashsharma8415" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yash Sharma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yashsharma8415/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yash Sharma" height="30" width="40" /></a>
