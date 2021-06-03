@@ -75,8 +75,4 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 <a href="https://www.codechef.com/users/yashsharma115" target="blank"><img align="center" src="https://cp-logo.vercel.app/codechef/yashsharma115?logo=true" alt="Yash Sharma" /></a>
 <a href="https://leetcode.com/Messier22/" target="blank"><img align="center" src="https://cp-logo.vercel.app/leetcode/Messier22?logo=true" alt="Yash Sharma" /></a>
 <a href="https://atcoder.jp/users/Protostar" target="blank"><img align="center" src="https://cp-logo.vercel.app/atcoder/Protostar?logo=true" alt="Yash Sharma" /></a>
-<a href="https://www.topcoder.com/members/Messier22" target="blank"><img align="center" src="https://cp-logo.vercel.app/topcoder/Messier22?logo=true" alt="Yash Sharma" /></a>
 </p>
-
-
-
