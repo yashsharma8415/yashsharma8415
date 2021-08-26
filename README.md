@@ -15,7 +15,7 @@ I am a CSE undergraduate at IIT Patna who loves programming, speaking, travellin
 - 🚀 I’m also actively involved in competitive progamming.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: yashsharma8415@gmail.com
-- 📝 [Resume](http://bit.ly/Yash_Sharma_Resume)
+<!-- - 📝 [Resume](http://bit.ly/Yash_Sharma_Resume) -->
 - 👨🏻‍💻 [Website](https://bit.ly/yash-sharma-portfolio)
 
 <br>
